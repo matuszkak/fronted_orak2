@@ -11,8 +11,7 @@
 // wave('Peter', a);
 
 function a() {
-  console.log('hello')
-    ;
+  console.log('hello');
 }
 
 setTimeout(a, 3000);
